@@ -1,4 +1,0 @@
-category: Perl
-requires: perl perl-IO-stringy perl-MailTools
-sdesc: "Perl MIME modules"
-ldesc: "Perl modules for parsing (and creating!) MIME entities."
