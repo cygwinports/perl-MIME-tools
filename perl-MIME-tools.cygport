@@ -2,8 +2,10 @@ CPAN_AUTHOR=dskoll
 inherit perl
 
 NAME="perl-MIME-tools"
-VERSION=5.504
+VERSION=5.506
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl MIME modules"
 DESCRIPTION="Perl modules for parsing (and creating) MIME entities."
+
+ARCH=noarch
